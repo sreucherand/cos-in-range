@@ -1,0 +1,30 @@
+{
+  "name": "cos-in-range",
+  "version": "1.0.0",
+  "description": "Utility function that maps a value through a cos function given the minimum and maximum value in a defined range.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreucherand/cos-in-range.git"
+  },
+  "keywords": [
+    "map",
+    "cos",
+    "range",
+    "curve",
+    "utility",
+    "math"
+  ],
+  "author": "Sylvain Reucherand <hello@sylvainreucherand.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sreucherand/cos-in-range/issues"
+  },
+  "homepage": "https://github.com/sreucherand/cos-in-range#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
